@@ -1,0 +1,23 @@
+.DS_Store
+bin/
+build/
+dist/
+vendor/
+coverage.out
+*.log
+*.tmp
+.idea/
+.vscode/
+*.exe
+*.dll
+*.test
+*.local
+/tmp/
+
+# Go modules
+/go.sum
+
+# Docker
+/data/
+/.cache/
+
